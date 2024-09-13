@@ -1,0 +1,18 @@
+body{
+    background: gray;
+}
+form{
+    height: 400px;
+    width: 350px;
+    background: lightgray;
+    margin: 200px auto;
+    padding: 20px;
+}
+input{
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 280px;
+    outline: none;
+    font-size: 10px;
+    box-sizing: border-box;
+}
